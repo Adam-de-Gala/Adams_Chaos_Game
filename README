@@ -1,0 +1,19 @@
+README
+
+Program to show "Chaotic" Fractal generation. Generates both Barnsley's Fern and Sierpinksi Triangle bases on 
+random number generation. Point of project was to experiment with the math behind the fractals, not graphics. 
+
+
+TO RUN. 
+
+In Main: 
+Lines 42 & 43 control which fractal is generated. 
+
+
+Created for my own fun :).
+
+More Info. 
+
+Chaos game : https://en.wikipedia.org/wiki/Chaos_game
+Sierpinksi Triangle: https://en.wikipedia.org/wiki/Sierpinski_triangle
+Barnsley's Fern : https://en.wikipedia.org/wiki/Barnsley_fern
